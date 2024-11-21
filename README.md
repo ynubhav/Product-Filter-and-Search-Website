@@ -32,6 +32,6 @@ ________________________________________________________________________________
 
 For any queries or contributions,
 
-reach out to [ANUBHAV DIXIT] -->(www.git.com/ynubhav)
+reach out to [ANUBHAV DIXIT] -->(www.github.com/ynubhav)
 
 at [anubhavdixit35@gmail.com].
