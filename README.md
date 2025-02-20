@@ -1,7 +1,8 @@
-[PRODUCT FILTER AND SEARCH WEBSITE]
-____________________________________________________________________________
+PRODUCT FILTER AND SEARCH WEBSITE
+---------------------------------
 
-[Project Overview]
+Project Overview
+----------------
 
 The Product Filter and Search Website is a web application designed to help users easily search,
 
@@ -12,7 +13,8 @@ The application offers a user-friendly interface, efficient search functionality
 and customizable filter options to enhance the shopping or browsing experience.
 
 _____________________________________________________________________________
-[Key Features]
+Key Features
+------------
 
 1.Product Search: Search for products using keywords, tags, or specific names.
 
